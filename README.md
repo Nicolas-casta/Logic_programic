@@ -1,7 +1,8 @@
 # Logic_programic
 
-# Clase I
 ## Ejercicios Prácticos
+# Clase I
+
 1. **Ejercicio de Descompocision:** Preparacion de cereal
 
     **Ingredientes:**
@@ -28,3 +29,7 @@ La funcion del semaforo es que cada cierto tiempo los focos que tiene incorporad
 4. **Ejercicio de Patrones:**
 
 **64, 32, 16, 8, 4, 2, 1:** El patron es que cada vez el numero es la mitad del anterior.
+
+# Clase II
+
+1. 
