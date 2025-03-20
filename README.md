@@ -32,4 +32,28 @@ La funcion del semaforo es que cada cierto tiempo los focos que tiene incorporad
 
 # Clase II
 
-1. 
+1. ALGORITMO Numero_Par_O_Impar
+   INICIO
+
+     LEER numero
+
+    PARA i = numero HASTA FIN i = 0
+
+    dividir: numero / 2
+
+    FIN PARA
+
+    SI numero = 0, Entonces
+
+   ESCRIBIR "El numero es par"
+
+   SINO
+
+   ESCRIBIR "El numero es impar"
+   FIN
+
+2. 
+
+![Diagrama sin título drawio](https://github.com/user-attachments/assets/04ccb68d-0fb9-4189-a2b6-27236c946617)
+
+       
